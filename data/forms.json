@@ -1,1 +1,200 @@
-[{"id":"a91a5827-9d90-47db-8a1e-10ac9ff3a59c","input1":"Expressions of creativity in everyday life","input2":"The laughter and joy of loved ones","input3":"The ability to pursue continuous learning","input4":"Meeting project coding milestones","input5":"Resolving software integration challenges","input6":"Collaborating with the QA team for testing","meditationTime":"15-30mins","timestamp":"11/21/2023"},{"id":"8a5e63c4-b8e9-4379-8aa6-d5d8a2e4b15f","input1":"The beauty of a sunrise","input2":"Gratitude for good health","input3":"The privilege of working on impactful projects","input4":"Designing intuitive user interfaces","input5":"Implementing responsive design principles","input6":"Analyzing user engagement metrics","meditationTime":"15-30mins","timestamp":"11/22/2023"},{"id":"cd68db2f-df44-4a5c-9b0c-5ed46c6a7a7b","input1":"The kindness of strangers","input2":"The opportunity to mentor others","input3":"The support of a collaborative team","input4":"Conducting competitive analysis","input5":"Implementing accessibility features","input6":"Presenting design concepts to stakeholders","meditationTime":"15-30mins","timestamp":"11/23/2023"},{"id":"77bd5a50-248f-4a2e-9a91-5598f4e88745","input1":"Moments of mindfulness and reflection","input2":"The excitement of a new design challenge","input3":"The privilege of making a positive impact","input4":"Optimizing user interface elements","input5":"Collaborating with the development team","input6":"Conducting user testing sessions","meditationTime":"15-30mins","timestamp":"11/24/2023"},{"id":"f5db2ac6-1d57-465d-b8e3-89a0ac939487","input1":"The serenity of nature","input2":"The wisdom gained from experiences","input3":"The support of a mentor in my career","input4":"Designing a seamless user onboarding flow","input5":"Troubleshooting front-end issues","input6":"Reviewing and optimizing user workflows","meditationTime":"15-30mins","timestamp":"11/25/2023"},{"id":"6e08c4b9-8823-4b77-9f52-5f42b331b8ee","input1":"The comfort of a good book","input2":"The encouragement of a supportive community","input3":"The joy of learning from mistakes","input4":"Creating a user-centric design strategy","input5":"Implementing UI enhancements based on feedback","input6":"Collaborating with stakeholders for project alignment","meditationTime":"15-30mins","timestamp":"11/26/2023"},{"id":"bf682376-8b2d-4ef4-93f8-12c49a4856b9","input1":"Expressions of gratitude from others","input2":"The beauty found in simplicity","input3":"The privilege of working with diverse perspectives","input4":"Conducting usability studies","input5":"Implementing design thinking methodologies","input6":"Analyzing user behavior for continuous improvement","meditationTime":"15-30mins","timestamp":"11/27/2023"},{"id":"92a22a48-fa4a-48c3-a8e1-9a64627f20c5","input1":"The support of a mentor in my career","input2":"The sense of accomplishment from challenges","input3":"The opportunity to contribute to meaningful projects","input4":"Creating interactive prototypes","input5":"Optimizing website navigation for better user experience","input6":"Collaborating with cross-functional teams for project success","meditationTime":"15-30mins","timestamp":"11/28/2023"},{"id":"efb215c1-4563-4bb4-8444-3a57a20a2717","input1":"Acts of kindness witnessed throughout the day","input2":"The opportunity to inspire others through design","input3":"The joy of bringing creative ideas to life","input4":"Conducting user interviews for insights","input5":"Implementing A/B testing for design optimization","input6":"Reviewing and refining design prototypes","meditationTime":"15-30mins","timestamp":"11/29/2023"},{"id":"c8943360-9d75-4f1f-94f8-4727e8876931","input1":"The laughter shared with colleagues","input2":"The ability to adapt and learn from challenges","input3":"The support of a collaborative work environment","input4":"Designing an intuitive user navigation flow","input5":"Troubleshooting and resolving design issues","input6":"Presenting design concepts to project stakeholders","meditationTime":"15-30mins","timestamp":"11/30/2023"},{"id":"24572d50-aa50-4d60-9eb5-0f4f1aaae2be","input1":"","input2":"","input3":"","input4":"","input5":"","input6":"","meditationTime":"5min","timestamp":"11/21/2023"},{"id":"5adaba95-abe8-496e-a58a-c82705d8dbbf","input1":"","input2":"","input3":"","input4":"","input5":"","input6":"","meditationTime":"5min","timestamp":"11/21/2023"},{"id":"c7c4bc9e-4353-4777-acda-1bb134b5daa7","input1":"","input2":"","input3":"","input4":"","input5":"","input6":"","meditationTime":"5min","timestamp":"11/21/2023"}]
+[
+    {
+        "id": "37e84832-4f1a-4f78-a0c8-58c3654a16f1",
+        "input1": "The positive impact of collaborative teamwork",
+        "input2": "The growth achieved through continuous learning",
+        "input3": "The joy of designing intuitive user interfaces",
+        "input4": "Creating user personas for targeted design",
+        "input5": "Implementing UI animations for a dynamic user experience",
+        "input6": "Reviewing and optimizing user flows for efficiency",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-13-2023"
+    },
+    {
+        "id": "f6d7eb41-898b-4a9f-94de-26a9976e86a0",
+        "input1": "The support received from a strong network",
+        "input2": "The excitement of tackling complex design challenges",
+        "input3": "The privilege of contributing to meaningful projects",
+        "input4": "Optimizing website navigation for user satisfaction",
+        "input5": "Troubleshooting and resolving backend integration issues",
+        "input6": "Collaborating with cross-functional teams for project success",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-14-2023"
+    },
+    {
+        "id": "d9f61b6d-2daa-4b2e-9fb0-d542464e4747",
+        "input1": "Acts of kindness witnessed throughout the week",
+        "input2": "The opportunity to inspire through innovative design",
+        "input3": "The joy of bringing creative ideas to life",
+        "input4": "Conducting user interviews for valuable insights",
+        "input5": "Implementing A/B testing for design optimization",
+        "input6": "Reviewing and refining design prototypes for user engagement",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-15-2023"
+    },
+    {
+        "id": "ae3c52a0-5c2c-4b17-98c4-bd1097be361f",
+        "input1": "The laughter shared during team meetings",
+        "input2": "The ability to adapt and learn from every project",
+        "input3": "The support of a collaborative work environment",
+        "input4": "Designing an engaging user interaction flow",
+        "input5": "Troubleshooting and resolving design challenges",
+        "input6": "Presenting design concepts to project stakeholders for feedback",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-16-2023"
+    },
+    {
+        "id": "dc8a38ad-bff1-4e5d-a7f5-cbcdf80a415b",
+        "input1": "The satisfaction of completing daily tasks",
+        "input2": "The encouragement received from team members",
+        "input3": "The joy of contributing to a positive work culture",
+        "input4": "Creating a user-centric information architecture",
+        "input5": "Implementing accessibility features for inclusivity",
+        "input6": "Collaborating with the development team on feature implementation",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-17-2023"
+    },
+    {
+        "id": "f7682f53-c0a2-45ed-b34a-1c87a78f8747",
+        "input1": "The sense of fulfillment from personal growth",
+        "input2": "The inspiration drawn from diverse perspectives",
+        "input3": "The privilege of working with a supportive team",
+        "input4": "Conducting thorough user persona research",
+        "input5": "Optimizing user interface elements for user satisfaction",
+        "input6": "Collaborating with marketing teams for consistent brand representation",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-18-2023"
+    },
+    {
+        "id": "a2ff4d60-8d6c-4f1f-964a-bb0d17c9a048",
+        "input1": "Expressions of gratitude for a positive work environment",
+        "input2": "The warmth of supportive relationships",
+        "input3": "The joy of contributing to impactful projects",
+        "input4": "Designing a visually appealing user interface",
+        "input5": "Troubleshooting and resolving design-related challenges",
+        "input6": "Presenting design concepts to executive stakeholders for approval",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-19-2023"
+    },
+    {
+        "id": "2f81e593-48da-4921-b186-739798b1cc41",
+        "input1": "The beauty found in small daily moments",
+        "input2": "The encouragement received from colleagues",
+        "input3": "The joy of collaborating with diverse talents",
+        "input4": "Creating a user-friendly navigation structure",
+        "input5": "Implementing UI enhancements based on user feedback",
+        "input6": "Reviewing and refining design elements for optimal user experience",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-20-2023"
+    },
+    {
+        "id": "a91a5827-9d90-47db-8a1e-10ac9ff3a59c",
+        "input1": "Expressions of creativity in everyday life",
+        "input2": "The laughter and joy of loved ones",
+        "input3": "The ability to pursue continuous learning",
+        "input4": "Meeting project coding milestones",
+        "input5": "Resolving software integration challenges",
+        "input6": "Collaborating with the QA team for testing",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-21-2023"
+    },
+    {
+        "id": "8a5e63c4-b8e9-4379-8aa6-d5d8a2e4b15f",
+        "input1": "The beauty of a sunrise",
+        "input2": "Gratitude for good health",
+        "input3": "The privilege of working on impactful projects",
+        "input4": "Designing intuitive user interfaces",
+        "input5": "Implementing responsive design principles",
+        "input6": "Analyzing user engagement metrics",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-22-2023"
+    },
+    {
+        "id": "cd68db2f-df44-4a5c-9b0c-5ed46c6a7a7b",
+        "input1": "The kindness of strangers",
+        "input2": "The opportunity to mentor others",
+        "input3": "The support of a collaborative team",
+        "input4": "Conducting competitive analysis",
+        "input5": "Implementing accessibility features",
+        "input6": "Presenting design concepts to stakeholders",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-23-2023"
+    },
+    {
+        "id": "77bd5a50-248f-4a2e-9a91-5598f4e88745",
+        "input1": "Moments of mindfulness and reflection",
+        "input2": "The excitement of a new design challenge",
+        "input3": "The privilege of making a positive impact",
+        "input4": "Optimizing user interface elements",
+        "input5": "Collaborating with the development team",
+        "input6": "Conducting user testing sessions",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-24-2023"
+    },
+    {
+        "id": "f5db2ac6-1d57-465d-b8e3-89a0ac939487",
+        "input1": "The serenity of nature",
+        "input2": "The wisdom gained from experiences",
+        "input3": "The support of a mentor in my career",
+        "input4": "Designing a seamless user onboarding flow",
+        "input5": "Troubleshooting front-end issues",
+        "input6": "Reviewing and optimizing user workflows",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-25-2023"
+    },
+    {
+        "id": "6e08c4b9-8823-4b77-9f52-5f42b331b8ee",
+        "input1": "The comfort of a good book",
+        "input2": "The encouragement of a supportive community",
+        "input3": "The joy of learning from mistakes",
+        "input4": "Creating a user-centric design strategy",
+        "input5": "Implementing UI enhancements based on feedback",
+        "input6": "Collaborating with stakeholders for project alignment",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-26-2023"
+    },
+    {
+        "id": "bf682376-8b2d-4ef4-93f8-12c49a4856b9",
+        "input1": "Expressions of gratitude from others",
+        "input2": "The beauty found in simplicity",
+        "input3": "The privilege of working with diverse perspectives",
+        "input4": "Conducting usability studies",
+        "input5": "Implementing design thinking methodologies",
+        "input6": "Analyzing user behavior for continuous improvement",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-27-2023"
+    },
+    {
+        "id": "92a22a48-fa4a-48c3-a8e1-9a64627f20c5",
+        "input1": "The support of a mentor in my career",
+        "input2": "The sense of accomplishment from challenges",
+        "input3": "The opportunity to contribute to meaningful projects",
+        "input4": "Creating interactive prototypes",
+        "input5": "Optimizing website navigation for better user experience",
+        "input6": "Collaborating with cross-functional teams for project success",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-28-2023"
+    },
+    {
+        "id": "efb215c1-4563-4bb4-8444-3a57a20a2717",
+        "input1": "Acts of kindness witnessed throughout the day",
+        "input2": "The opportunity to inspire others through design",
+        "input3": "The joy of bringing creative ideas to life",
+        "input4": "Conducting user interviews for insights",
+        "input5": "Implementing A/B testing for design optimization",
+        "input6": "Reviewing and refining design prototypes",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-29-2023"
+    },
+    {
+        "id": "c8943360-9d75-4f1f-94f8-4727e8876931",
+        "input1": "The laughter shared with colleagues",
+        "input2": "The ability to adapt and learn from challenges",
+        "input3": "The support of a collaborative work environment",
+        "input4": "Designing an intuitive user navigation flow",
+        "input5": "Troubleshooting and resolving design issues",
+        "input6": "Presenting design concepts to project stakeholders",
+        "meditationTime": "15-30mins",
+        "timestamp": "11-30-2023"
+    }
+]

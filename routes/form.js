@@ -6,20 +6,33 @@ const formsJson = require("../data/forms.json");
 const dayjs = require("dayjs");
 
 
+
 // Get all form data
 router.get("/", (_req, res)=> {
     res.send(formsJson);
 });
 
 // Get one video using req.params
-router.get("/:id", (req, res)=> {
-    const {id} = req.params;
+// router.get("/:id", (req, res)=> {
+//     const {id} = req.params;
     
-    const selectForm = formsJson.find((form) => form.id === id);
+//     const selectForm = formsJson.find((form) => form.id === id);
+//     if(selectForm) {
+//         res.send(selectForm);
+//     } else {
+//         res.status(400).send("Incorrect form content");
+//     }
+//     });
+
+router.get("/:timestamp", (req, res)=> {
+    const {timestamp} = req.params;
+    
+    const selectForm = formsJson.find((form) => form.timestamp === timestamp);
     if(selectForm) {
         res.send(selectForm);
     } else {
-        res.status(400).send("Incorrect form content");
+        // res.status(400).send("No entries for this date");
+        res.status(400).json({ alert: "No entries on this date." });
     }
     });
 
@@ -41,11 +54,10 @@ router.post("/", (req, res)=> {
     "input5": input5,
     "input6": input6,
     "meditationTime": meditationTime,
-    // "timestamp": Date.now(),}
-    "timestamp": dayjs(date).format("MM/DD/YYYY")
+    "timestamp": dayjs(date).format("MM-DD-YYYY")
 }
     
-    formsJson.push(newform);
+    formsJson.unshift(newform);
 
     const formString = JSON.stringify(formsJson);
     fs.writeFileSync("./data/forms.json", formString);
