@@ -8,5 +8,5 @@
 
 The following environment variables are used in the project:
 
-PORT= 8081
-REACT_APP_API_URL = http://localhost:8081
+- PORT= 8081
+- REACT_APP_API_URL = http://localhost:8081
