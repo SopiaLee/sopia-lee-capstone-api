@@ -6,7 +6,7 @@
 
 # To run the backend server,
 
-1. "npx nodemon: in terminal (do not need to change directory)
+1. "npx nodemon" in terminal (do not need to change directory)
 
 # To run the frontend,
 
